@@ -1,6 +1,7 @@
 ## My Project
 
-TODO: Fill this README out!
+
+Links to data used in Proteno (https://arxiv.org/abs/2104.07777) experiments
 
 Be sure to:
 
