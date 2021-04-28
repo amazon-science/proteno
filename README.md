@@ -1,11 +1,10 @@
-## My Project
+## Proteno
 
 
 Links to data used in Proteno (https://arxiv.org/abs/2104.07777) experiments
 
 Be sure to:
 
-* Change the title in this README
 * Edit your repository description on GitHub
 * Write in your license below and create a LICENSE file
 
@@ -15,7 +14,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the CC-BY-NC-4.0 License.
+These datasets are licensed under the following licenses:
+- Spanish: CC-BY-SA License
+- Tamil: CC-BY-NC-SA License
+- English: CC-BY-SA License
 
 ## Citation
 
