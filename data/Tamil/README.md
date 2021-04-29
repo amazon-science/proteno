@@ -24,3 +24,18 @@ This dataset is licensed under CC-BY-NC-SA License.
 }
 ```
 
+```
+@Inbook{Eckart2013,
+author={Eckart, Thomas and Quasthoff, Uwe},
+title="{Statistical Corpus and Language Comparison on Comparable Corpora}",
+bookTitle={Building and Using Comparable Corpora},
+year={2013},
+publisher={Springer Berlin Heidelberg},
+address={Berlin, Heidelberg},
+pages={151--165},
+isbn={978-3-642-20128-8},
+doi={10.1007/978-3-642-20128-8_8},
+url={https://doi.org/10.1007/978-3-642-20128-8_8}
+}
+```
+
