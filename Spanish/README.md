@@ -5,7 +5,7 @@ This dataset contains 4,791 sentences for text normalization.  There are two Pyt
 E.g., 
 Normalized:  <lang id="en">Transworld Publishers Ltd. Londres,</lang> <error what="mil novecientos noventa y nueve">1999</error>.Taylor,P.<error what="mil  novecientos noventa y seis"> 1996</error>. 
 
-Tokenized unnormalized (after foreign language text removal): ['1999', '.', 'taylor', ',', 'p', '.', '1996', '.'] 
+Tokenized unnormalized (after foreign language text removal): ['1999' , '.' , 'taylor' , ',' , 'p' , '.' , '1996' , '.'] 
 
 Normalized to unnormalized mapping: <error what="mil novecientos noventa y nueve">1999</error> => Unnormallized token: 1999 Normalization: "mil novecientos noventa y nueve".
 
