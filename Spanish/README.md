@@ -13,5 +13,3 @@ First 60% of the data was used for training Proteno and the the models were eval
 
 ## License
 This dataset is licensed under CC-BY-SA License.
-
-
