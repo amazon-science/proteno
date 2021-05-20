@@ -11,9 +11,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 These datasets are licensed under the following licenses:
+
+- English: CC-BY-SA License
 - Spanish: CC-BY-SA License
 - Tamil: CC-BY-NC-SA License
-- English: CC-BY-SA License
 
 ## Citation
 
