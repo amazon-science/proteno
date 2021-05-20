@@ -15,7 +15,7 @@ Normalized to unnormalized token mapping:
 <error what="trescientos">300</error> => Unnormalized token: 300 , Normalization: "trescientos".
 ```
   
-First 60% of the data was used for training Proteno and the the models were evaluated on the other 40%.
+First 60% of the data was used for training Proteno and the models were evaluated on the other 40%.
 
 ## License
 This dataset is licensed under CC-BY-SA License.
