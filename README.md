@@ -10,7 +10,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This project is released under the CC-BY-NC-4.0 and other licenses:
+This project is released under CC-BY-NC-4.0 and other licenses:
 
 - English: CC-BY-SA
 - Spanish: CC-BY-SA 
