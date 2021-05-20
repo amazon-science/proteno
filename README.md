@@ -3,10 +3,6 @@
 
 Links to data used in Proteno (https://arxiv.org/abs/2104.07777) experiments
 
-Be sure to:
-
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
 
 ## Security
 
