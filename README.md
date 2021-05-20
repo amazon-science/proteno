@@ -1,7 +1,7 @@
 ## Proteno
 
 
-Links to data used in Proteno (https://arxiv.org/abs/2104.07777) experiments
+This is the data release associated with the corresponding NAACL 2021 Paper - Proteno: Text Normalization with Limited Data for Fast Deployment in Text to Speech Systems (https://arxiv.org/abs/2104.07777)
 
 
 ## Security
