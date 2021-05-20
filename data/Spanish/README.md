@@ -13,7 +13,6 @@ Unnormalized Tokenized Text(after foreign language text removal):
   
 Normalized to unnormalized token mapping: 
 <error what="trescientos">300</error> => Unnormalized token: 300 , Normalization: "trescientos".
-  
 ```
   
 First 60% of the data was used for training Proteno and the the models were evaluated on the other 40%.
